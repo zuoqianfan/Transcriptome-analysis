@@ -9,11 +9,11 @@ Use this script to divide different datasets.
 This script is used to visualize the significance of amplitude differences between different tissues of tobacco.
 ## Amplitude histogram
 This script is used to visualize the amplitude distribution pattern of all transcripts.
-## Time series analysis——Mfuzz
+## Time series analysis-Mfuzz
 This script Mfuzz.R was used for tobacco transcriptome timing analysis, which was divided into 6 clusters.
 ## Differential gene analysis
 Differential gene analysis was used to find expression differences between different tissues and different varieties at different times of infection.
-## riverplot
+## Riverplot
 This script is used to compare the relationships between different symbols.
 ## PCA
 This script is used for principal component analysis.
