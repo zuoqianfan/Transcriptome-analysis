@@ -1,5 +1,5 @@
 # Transcriptome-analysis
-# TPM standardization
+## TPM standardization
 Use the script TPM.R to normalize Counts to TPM values.
 # Correlation analysis and visualization
 You can use this script for correlation analysis and visualization.
